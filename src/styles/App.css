@@ -1,0 +1,12 @@
+#form{
+border: solid black;
+margin: 20px;
+padding: 5px;
+width: 10%;
+}
+.list{
+    border: solid black;
+    margin: 2px;
+padding: 5px;
+width: 25%
+}
